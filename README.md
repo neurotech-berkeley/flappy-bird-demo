@@ -1,13 +1,10 @@
-<h1 align="center">
+This is a variation off Flappy Bird in which the user controls Flappy Bird with their EEG signal. Specifically jaw clenches were used to make flappy bird jump! 
 
-<p align="center">
-  <img src="assets/icons/preview.jpeg"/>
-</p>
+Check out the youtube demo here:
+https://youtu.be/AvfNymQDl30
 
-    Flappy Bird 🐦
-
-**Flappy Bird** with React Native
-</h1>
+Check out the signal processing code here:
+https://github.com/neurotech-berkeley/eeg-pipeline-flask
 
 
-Expo & PIXI.js
+Credits to EvanBacon for the beautiful base Flappy Bird Game!

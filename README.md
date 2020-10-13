@@ -8,3 +8,4 @@ https://github.com/neurotech-berkeley/eeg-pipeline-flask
 
 
 Credits to EvanBacon for the beautiful base Flappy Bird Game!
+https://github.com/EvanBacon/react-flappy-bird
